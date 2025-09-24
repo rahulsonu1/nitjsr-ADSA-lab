@@ -38,5 +38,5 @@ int main(){
     enqueue(10); enqueue(20); enqueue(30);
     enqueue(284);enqueue(4334);;enqueue(433);
     display(); dequeue(); display();
-    printf("%d",size());
+   
 }
